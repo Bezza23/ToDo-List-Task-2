@@ -1,6 +1,6 @@
 # 📝 To Do List
 
-This is a clean and intuitive to-do list application built with HTML, CSS, and vanilla TypeScript. It allows users to dynamically add new tasks to their list, edit existing ones in-place, and remove items once they are completed. The project focuses on fundamental web development concepts, including DOM manipulation, event handling, and modern CSS for layout.
+This is a clean and intuitive to-do list application built with HTML, CSS, TypeScript and JavaScript. It allows users to dynamically add new tasks to their list, edit existing ones in-place, and remove items once they are completed. The project focuses on fundamental web development concepts, including DOM manipulation, event handling, and modern CSS for layout.
 
 ## 🛠 How to Run the App
 1. Clone Repository
